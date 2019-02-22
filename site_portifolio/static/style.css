@@ -1,0 +1,17 @@
+body{   
+    background-color: beige;
+}
+
+h1 {
+    color: darkred;
+    font-size: 30px;
+}
+
+h3{
+    color: indigo; 
+    font-size: 20px;
+}
+ul{
+    font-size: 20px;
+    color: red
+}
